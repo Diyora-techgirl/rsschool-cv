@@ -1,29 +1,32 @@
-# My Resume
+# Diyora-techgirl's Resume
 
 ## Contact Info
-- Email: example@example.com
-- Phone: +1234567890
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- Email: [akbaraliyevadiyora089@gmail.com](mailto:akbaraliyevadiyora089@gmail.com)
+- Telegram: [t.me/diyora2305](https://t.me/diyora2305)
+- GitHub: [Diyora-techgirl](https://github.com/Diyora-techgirl)
 
-## Summary
-A passionate Junior Developer with a strong desire to learn and grow in the field. Eager to apply my knowledge of programming languages and frameworks to real-world projects.
+## About Me
+👋 Hi, I’m Diyora-techgirl
 
-## Skills
-- Languages: JavaScript, Python, HTML, CSS
-- Frameworks: React, Node.js
-- Tools: Git, GitHub, VS Code
+### I’m interested in:
+- Building dynamic web applications using React and JavaScript
+- Developing user-friendly applications with a focus on UI/UX
+- Learning and integrating cloud computing technologies into my projects
+- Exploring backend development with Node.js and Express
 
-## Code Examples
-[Link to GitHub Projects](https://github.com/yourusername)
+### I’m currently learning:
+- Python with a focus on Object-Oriented Programming (OOP) and backend development
+- Exploring machine learning and data science concepts
+- SCSS and Tailwind CSS for creating responsive, modern web designs
+- Working with REST APIs and GraphQL
 
-## Experience
-- Freelance Web Developer: Created websites for local businesses.
-- Internship: Developed features for a small e-commerce app.
+### I’m looking to collaborate on:
+- React and JavaScript projects focused on building dynamic user interfaces
+- Backend development projects using Python and Django
+- Projects involving machine learning and AI applications
 
-## Education
-- Bachelor's in Computer Science - University of XYZ (2019-2023)
-- Completed Front-End Development course at RS School
+## Pronouns
+- She/Her
 
-## English
-- B2 level
-- 1-year experience in English-speaking work environments
+## Fun Fact
+I love photography and video editing, and often combine my tech skills with creative projects like making tech tutorials and coding vlogs!
